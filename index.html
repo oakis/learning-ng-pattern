@@ -11,12 +11,12 @@
 	<div>
 		<label>only a-z and A-Z</label>
 		<!-- the value of ng-pattern is set to a regexp that accepts any letter in the english alphabet  -->
-		<input type="text" ng-model="text" ng-pattern=/^[A-Za-z]*$/>
+		<input type="text" ng-model="text" ng-pattern=/^[A-Za-z]*$/ placeholder="Type here...">
 	</div>
 	<div>
 		<label>only 0-9</label>
 		<!-- the value of ng-pattern is set to a regexp that accepts only numbers -->
-		<input type="text" ng-model="number" ng-pattern="/^\d*$/">
+		<input type="text" ng-model="number" ng-pattern="/^\d*$/" placeholder="Type here...">
 	</div>
 	<p><span class="green">Green</span> input background means regexp is true.</p>
 	<p><span class="red">Red</span> input background means regexp is false.</p>
