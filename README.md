@@ -4,6 +4,8 @@ Made by Anders Ekman.
 
 This is a simple app made for showing how we can use ng-pattern in Angular.
 
+http://oakis.github.io/learning-ng-pattern/
+
 ##The app is built with
 * HTML
 * CSS
