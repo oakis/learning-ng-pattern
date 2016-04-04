@@ -1,5 +1,5 @@
 # learning-ng-pattern
-School assignment in Angular.js
+School assignment in Angular.js  
 Made by Anders Ekman.
 
 This is a simple app made for showing how we can use ng-pattern in Angular.
